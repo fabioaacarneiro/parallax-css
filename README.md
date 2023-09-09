@@ -4,7 +4,7 @@
 
 ## Imagem de exemplo no meio de uma transição
 
-![](projetc-img/img1.png "exemplo do projeto")
+![](project-img/img1.png "exemplo do projeto")
 
 ***
 
